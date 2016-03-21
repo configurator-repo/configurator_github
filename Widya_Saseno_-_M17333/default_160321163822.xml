@@ -1,15 +1,6 @@
 <?xml version="1.0"?>
 <root>
-  <!--
-        GroupAddress    Device
-        0x311 (785)     AudioMixer-Server
-        0x320 (800)     AudioDemoBoards -> will be changed 0x370 ~ 0x373
-        0x332 (818)     AudioMixer-Client - HU
-        0x362 (866)     Slim Microphone	-> will be changed 0x375 ~ 0x378
-        0x321 (801)     MOST Camera with OS81110
-        0x363 (867)		BSRF
-        ???							Cluster	-> please define and add some text
-    -->    
+
   <network_manager>
     <local_connection>
       <port_id>USB</port_id>
